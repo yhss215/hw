@@ -16,7 +16,7 @@
         {% for key, value in display_page.items %}
         {% if value %}
         {% if value == now_page %}
-        <li class="uk-active">{{ value }}</li>
+        <li class="uk-active"><span>{{ value }}</span></li>
         {% else %}
         <li><a href="?page={{ value }}">{{ value }}</a></li>
         {% endif %}
