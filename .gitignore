@@ -1,0 +1,14 @@
+testDjango/board/__pycache__
+testDjango/board/migrations/__pycache__
+
+testDjango/home/__pycache__
+testDjango/home/migrations/__pycache__
+
+testDjango/user/__pycache__
+testDjango/user/migrations/__pycache__
+
+testDjango/testProject/__pycache__
+
+testDjango/media/django-summernote
+
+testDjango/db.sqlite3
